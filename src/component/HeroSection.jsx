@@ -18,13 +18,11 @@ function HeroSection() {
           height: '100%',
           objectFit: 'cover',
           zIndex: -1,
-        }}
-      >
+        }}  >
         <source
           src="https://video.activision.com/activision/cdn/videos/tony-hawk-pro-1-2.mp4 "
-          type="video/mp4"
-        />
-        Your browser does not support the video tag.
+          type="video/mp4" />
+      
       </video>
       <div
         className="absolute inset-0 bg-black opacity-90 transition duration-300"

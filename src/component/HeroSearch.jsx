@@ -51,7 +51,7 @@ function HeroSearch() {
         </div>
       </div>
       
-      <div className="sm:flex sm:justify-center w-full md:hidden bg-black">
+
         <br />
   <div className="flex justify-center">
     <button
