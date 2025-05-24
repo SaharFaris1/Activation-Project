@@ -43,14 +43,14 @@ function HeroSupport() {
       <div className="max-w-6xl mx-auto px-4 space-y-6">
         <div className="flex items-center space-x-4">
           <div className=" rounded-full p-3">
-            <img src="src/assets/icon_game.png" alt="Game Icon" className="w-10 h-10" />
+            <img src="https://support.activision.com/content/dam/atvi/support/home/carousel/icons/icon_game.png" alt="Game Icon" className="w-10 h-10" />
           </div>
           <h2 className="text-xl font-bold">MODERN WARFARE II INSTALLATION AND SETUP</h2>
         </div>
 
         <div className="flex items-center space-x-4">
           <div className=" rounded-full p-3">
-            <img src="src/assets/icon_support.png" alt="Support Icon" className="w-10 h-10" />
+            <img src="https://support.activision.com/content/dam/atvi/support/home/carousel/icons/icon_support.png" alt="Support Icon" className="w-10 h-10" />
           </div>
           <h2 className="text-xl font-bold">BROWSE THE SUPPORT PAGE</h2>
         </div>

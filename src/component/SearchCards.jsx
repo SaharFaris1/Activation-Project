@@ -62,7 +62,7 @@ const cards = [
 function SearchCards() {
     const renderCards = () => {
         return cards.map((card) => (
-          <div key={card.id} className=" text-white px-10 " >
+          <div key={card.id} className=" text-neutral-500 px-10 " >
               <div className="p-4">
               <h2 className="text-lg font-bold">{card.title}</h2>
              
