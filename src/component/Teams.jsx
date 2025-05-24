@@ -7,13 +7,11 @@ function Teams() {
       <div
       className=" hidden md:flex relative w-full bg-black text-white py-20"
       style={{
-        backgroundImage: `url('public/team.png')`,
+        backgroundImage: `url('src/assets/team.png')`,
         backgroundSize: 'cover',
         backgroundPosition: 'end',
         backgroundRepeat: 'no-repeat',
-      }}
-    >
- 
+      }}>
 
       <div className="container mx-auto px-6 relative z-10 justify-between">
         <div className="flex flex-col md:flex-row items-center justify-between">
@@ -52,7 +50,7 @@ function Teams() {
 
 
     <div className="  md:hidden w-full bg-black text-white py-20" >
- <img src="public/team.png" alt="" srcset="" />
+ <img src="src/assets/team.png" alt="" srcset="" />
 
       <div className="container mx-auto px-6  z-10 justify-between">
         <div className="flex flex-col md:flex-row items-center justify-between">

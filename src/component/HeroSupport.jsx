@@ -8,7 +8,7 @@ function HeroSupport() {
     <div
       className="relative bg-gray-900 text-white min-h-screen"
       style={{
-        backgroundImage: `url('public/MWII-PS-HERO.jpg')`,
+        backgroundImage: `url('src/assets/MWII-PS-HERO.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
@@ -42,15 +42,15 @@ function HeroSupport() {
 
       <div className="max-w-6xl mx-auto px-4 space-y-6">
         <div className="flex items-center space-x-4">
-          <div className="bg-gray-700 rounded-full p-3">
-            <img src="public/icon_game.png" alt="Game Icon" className="w-6 h-6" />
+          <div className=" rounded-full p-3">
+            <img src="src/assets/icon_game.png" alt="Game Icon" className="w-10 h-10" />
           </div>
           <h2 className="text-xl font-bold">MODERN WARFARE II INSTALLATION AND SETUP</h2>
         </div>
 
         <div className="flex items-center space-x-4">
-          <div className="bg-gray-700 rounded-full p-3">
-            <img src="public/icon_support.png" alt="Support Icon" className="w-6 h-6" />
+          <div className=" rounded-full p-3">
+            <img src="src/assets/icon_support.png" alt="Support Icon" className="w-10 h-10" />
           </div>
           <h2 className="text-xl font-bold">BROWSE THE SUPPORT PAGE</h2>
         </div>
